@@ -15,5 +15,7 @@ This will create the database and the table according to the schema.
 and then java trail2. This will be read all the zip files from the all folder in the box 
 and convert them into text files.
 
+3. Run the temperature_maximum.java after the database has been created and this program inserts the data
+and finds the maximum temperature.
 
 	
